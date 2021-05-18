@@ -1,0 +1,2 @@
+# sdT
+SUBDOMAIN tAKEROVER
